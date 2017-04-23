@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amarundmonline/timeman/issues"
   },
-  "homepage": "https://github.com/amarundmonline/timeman#readme"
+  "homepage": "https://github.com/amarundmonline/timeman#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
